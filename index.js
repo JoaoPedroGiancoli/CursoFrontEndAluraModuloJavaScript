@@ -12,3 +12,4 @@ const conta2 = new ContaCorrente(102, cliente2);
 
 
 console.log(ContaCorrente.numeroDeContas);
+//a
